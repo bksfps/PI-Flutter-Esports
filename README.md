@@ -3,9 +3,8 @@ O projeto do Website para entidade Mauá E-sports do Instituto Mauá de Tecnolog
 
 Este projeto envolveu principalmente a parte de Front-End, utilizamos Flutter/Dart e para Back-End utilizamos python para integração e MySQL para Banco de Dados.
 
-Tal trabalho nos desenvolveu principalmente nas partes de UX/UI e Back-End além de desenvolvimento web como um todo.
+Tal trabalho nos desenvolveu principalmente nas partes de UX/UI Front-End e Back-End além de desenvolvimento web como um todo.
 
-Prestamos muita atenção com a usabilidade e acessibilidade, sempre pensando nas Heurísticas de Nielsen e Princípios de Norman.
 
 # Integrantes
 
